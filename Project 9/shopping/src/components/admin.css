@@ -1,0 +1,69 @@
+.block {
+	display: block;
+}
+
+.none {
+	display: none;
+}
+.admin-container {
+	color: #ffffff;
+}
+.admin-name {
+	position: relative;
+	top: -60px;
+}
+table.admin {
+	width: 100%;
+	position: relative;
+	top: 100px;
+	left: -20px;
+}
+tr.admin > th, td {
+	border-bottom: 1px solid #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+th, tr, td {
+	text-align: center;
+}
+
+th.item {	
+	border-bottom: 1px solid #ffffffff;
+}
+.admin-price {
+	position: relative;
+	top: -60px;
+}
+.radio-group {
+	position: relative;
+	top: -60px;
+}
+
+span {
+	position: relative;
+	left: 30px;
+}
+.total {
+	position: relative;
+	top: -60px;
+	left: 20px;
+}
+.delete {
+	position: relative;
+	top: 0px;
+	left: 20px;
+}
+
+.state {
+	position: relative;
+	top: -60px;
+}
+.admin-img {
+	position: relative;
+	top: 10px;
+	height: 200px;
+}
+.admin-button {
+	position: relative;
+	top: -60px;
+}

@@ -1,0 +1,65 @@
+div.title1 {
+	margin-top: 10px;
+	font-size: 35px;
+	text-align: center;
+	position: relative;
+	top: 30px;
+}
+.Bill {
+	color: #ffffffff;
+}
+.bill-name {
+	position: relative;
+	top: -60px;
+}
+table.bill {
+	width: 100%;
+	position: relative;
+	top: 100px;
+	left: -20px;
+}
+tr.bill > th, td {
+	border-bottom: 1px solid #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+th, tr, td {
+	text-align: center;
+}
+
+th.item {	
+	border-bottom: 1px solid #ffffffff;
+}
+.bill-price {
+	position: relative;
+	top: -60px;
+}
+.radio-group {
+	position: relative;
+	top: -60px;
+}
+
+span {
+	position: relative;
+	left: 30px;
+}
+.total {
+	position: relative;
+	top: -60px;
+	left: 20px;
+}
+.delete {
+	position: relative;
+	top: 0px;
+	left: 20px;
+}
+
+.state {
+	position: relative;
+	top: -60px;
+}
+.bill-img {
+	position: relative;
+	top: 10px;
+	height: 200px;
+}
