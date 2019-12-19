@@ -1,0 +1,61 @@
+ul.nav {
+	float: right;
+}
+ul.nav >li:first-child {
+	position: relative;
+	left: -1081px;
+}
+.none {
+	display: none;
+}
+.signin {
+	position: relative;
+	top: 200px;
+}
+.item {
+	display: inline-block;
+}
+.div {
+	display: none;
+}
+
+li.post:hover > div {
+	display: inline;
+}
+h6 {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+h6:first-child {
+	margin-left: 100px;
+}
+.mb-20 {
+	margin-bottom: 20px;
+}
+.posts {
+	display: flex;
+	flex: 1;
+	flex-wrap: wrap;
+	flex-direction: row; 
+	width: 1000px;
+	position: relative;
+	left:-150px;
+}
+.title {
+	display: flex;
+	flex-wrap: wrap;
+	flex-grow: row;
+	color: #50505050;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 1.181818188181;
+}
+img {
+	display: block;
+	max-width: 100%;
+	width: 100%;
+}
+p {
+	height: 50px;
+}
+
